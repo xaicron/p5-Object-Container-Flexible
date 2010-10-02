@@ -11,6 +11,8 @@ all_pod_files_spelling_ok('lib');
 
 __DATA__
 Object::Container::Flexible
+Preload
+preload
 
 # personal section
 xaicron

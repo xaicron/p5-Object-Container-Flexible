@@ -2,7 +2,7 @@ use inc::Module::Install;
 name 'Object-Container-Flexible';
 all_from 'lib/Object/Container/Flexible.pm';
 
-#requires '';
+requires 'Object::Container', '0.0802';
 
 #build_requires '';
 test_requires 'Test::More', 0.96;
