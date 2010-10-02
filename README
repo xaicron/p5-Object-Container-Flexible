@@ -1,0 +1,27 @@
+This is Perl module Object::Container::Flexible.
+
+INSTALLATION
+
+Object::Container::Flexible installation is straightforward. If your CPAN shell is set up,
+you should just be able to do
+
+    % cpan Object::Container::Flexible
+
+Download it, unpack it, then build it as per the usual:
+
+    % perl Makefile.PL
+    % make && make test
+
+Then install it:
+
+    % make install
+
+DOCUMENTATION
+
+Object::Container::Flexible documentation is available as in POD. So you can do:
+
+    % perldoc Object::Container::Flexible
+
+to read the documentation online with your favorite pager.
+
+xaicron
