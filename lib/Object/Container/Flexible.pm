@@ -80,7 +80,7 @@ Additional args for initializer:
 
 It's also execute C<< LWP::UserAgent->new(@args) >>.
 
-equals to C << Object::Container->register('LWP::UserAgent', @args);
+equals to C<< Object::Container->register('LWP::UserAgent', @args) >>.
 
 Custom initializer:
 
